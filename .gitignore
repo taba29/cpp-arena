@@ -1,0 +1,10 @@
+.DS_Store
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.ninja
+.ninja_*
+*.dSYM/
+Testing/
+CTestTestfile.cmake
