@@ -32,6 +32,9 @@ add_executable(day6_geometry src/day6_geometry.cpp)
 
 add_executable(day7_integration src/day7_integration.cpp)
 
+add_executable(day9_vec2 src/day9_vec2.cpp)
+
+
 # ---- CTest を正しく初期化し、tests/ を読む ----
 include(CTest)            # => BUILD_TESTING オプションが定義され、既定 ON
 if(BUILD_TESTING)
