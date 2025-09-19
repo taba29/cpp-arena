@@ -8,3 +8,10 @@ CMakeCache.txt
 *.dSYM/
 Testing/
 CTestTestfile.cmake
+
+# safety
+*.pem
+*.key
+*.pub
+*.env
+.env*
